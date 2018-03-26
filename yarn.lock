@@ -4479,6 +4479,10 @@ schema-utils@^0.3.0:
   dependencies:
     ajv "^5.0.0"
 
+scroll-to-target@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/scroll-to-target/-/scroll-to-target-0.0.8.tgz#b234aef4613644115ff8e6547c1f35a9d8cf6610"
+
 select-hose@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/select-hose/-/select-hose-2.0.0.tgz#625d8658f865af43ec962bfc376a37359a4994ca"
