@@ -3,7 +3,7 @@ import Pagination from 'components/Pagination'
 
 const Home = () => (
   <div>
-    <Example />
+    <Example name="Teste counter:" />
     <p>asdasd</p>
     <p>asdasd</p>
     <p>asdasd</p>
